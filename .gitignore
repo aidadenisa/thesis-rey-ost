@@ -1,4 +1,12 @@
 first_model
 ./first_model
 
+test_photos
+results
+results-old*
+new_sample
+new_sample*
+
+first_batch_DL_64
+
 .DS_Store
