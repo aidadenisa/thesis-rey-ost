@@ -6,7 +6,12 @@ results
 results-old*
 new_sample
 new_sample*
-
+cropped_completi*
+dataset
+documentation
+first_model_old*
+*models*
+first_model_final
 first_batch_DL_64
 
 .DS_Store
